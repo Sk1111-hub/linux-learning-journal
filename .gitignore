@@ -1,0 +1,18 @@
+# Secrets & credentials
+*.pem
+*.key
+id_rsa*
+*.env
+.env.*
+*_history
+.bash_history
+
+# OS / editor junk
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# VM / vagrant artifacts
+.vagrant/
+*.box
