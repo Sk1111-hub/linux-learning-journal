@@ -1,8 +1,6 @@
 # Cheatsheets
 
-Personal quick-reference notes, built as I learn — not copy-pasted from
-elsewhere. Writing these in your own words is part of the learning
-process and shows understanding, not memorization.
+Personal quick-reference notes, built as I learn
 
 Suggested starter files as you progress:
 - `permissions.md` — chmod/chown/umask, special bits (SUID/SGID/sticky)
